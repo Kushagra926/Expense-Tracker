@@ -1,12 +1,13 @@
 
 import './App.css'
+import CardComponent from './CardComponent'
 
 function App() {
  
 
   return (
     <>
-    <h1>Hello from expense manager.</h1>
+    <CardComponent/>
     </>
   )
 }
